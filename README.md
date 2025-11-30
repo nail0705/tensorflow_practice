@@ -17,7 +17,7 @@ Directory
 2. Natural language related<br>
 [static_RNN<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/RNN_static_cell.py)
 [dynamic_RNN<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/RNN_dynamic_cell.py)
-[LSTM<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/LSTM.py)
+[LSTM<br>] (https://github.com/princewen/tensorflow_practice/blob/master/nlp/LSTM.py)
 [LSTM_regression<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/LSTM_Regression.py)
 [seq2seq<br>](https://github.com/princewen/tensorflow_practice/blob/master/nlp/basic_seq2seq.py)
 [seq2seq_attention<br>](https://github.com/princewen/tensorflow_practice/tree/master/nlp/chat_bot_seq2seq_attention)
